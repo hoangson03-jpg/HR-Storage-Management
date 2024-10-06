@@ -140,7 +140,7 @@ function InventoryLadger() {
                   boxShadow:'4',
                   borderRadius:'10px',
                   cursor:'pointer',
-                  
+                  //ssss
                 }}>
                   <Input placeholder="Nhóm hàng" sx={{ fontSize:'12px', fontWeight:'600'}}></Input>
                 
